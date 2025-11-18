@@ -4,10 +4,9 @@
 Research-first engineer who designs and implements new system patterns to drive novel ideas into production, from large-scale multimodal pipelines to full LLM alignment and reproducibility stacks.
 
 - Location: Seoul, South Korea
-- Email: js110182@gmail.com
+- Email: js110182@gmail.com 
 - GitHub: https://github.com/Dirac-Robot
 - LinkedIn: https://www.linkedin.com/in/jeonggeun-song-860749142
-- Medium: https://medium.com/@js110182
 
 ---
 ---
@@ -193,7 +192,7 @@ At my core I am research-driven: I start from first-principles formulations and 
 
 ### My research focuses on structural learning problems - e.g., deriving principled views of diffusion as real-distribution estimators, designing BP-free contrastive objectives, and building architectures/metrics that align clean theory with deployable systems.
 
-## **Meta-Context Diffusion — Context Refinement Module (2024)**
+## **Meta-Context Diffusion - Context Refinement Module (2024)**
 **Role:** Co-first Author, Sole Contributor
 **Summary:** Proposed Meta-Context Generator enabling diffusion models to infer implicit context for ambiguous prompts.
 
@@ -240,13 +239,16 @@ At my core I am research-driven: I start from first-principles formulations and 
 
 ---
 ---
-# Careers
+# Eduacations & Careers
 
-- 2025.04 - Present | Blue Garage
-- 2024.01 - 2025.03 | 42Dot
-- 2023.08 - 2024.01 | Kakao Brain
-- 2021.09 - 2023.08 | Kakao Enterprise
-- 2018.08 - 2021.08 | Kakao
+- 2025.04 - Present / Blue Garage
+- 2024.01 - 2025.03 / 42Dot
+- 2023.08 - 2024.01 / Kakao Brain
+- 2021.09 - 2023.08 / Kakao Enterprise
+- 2018.08 - 2021.08 / Kakao
+
+- 2016.03 ~ 2018.02 / M.S. in Physics, Sogang University
+- 2010.03 ~ 2016.02 / B.S. in Physics, Sogang University
 
 ---
 ---
