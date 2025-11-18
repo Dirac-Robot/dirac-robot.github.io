@@ -7,6 +7,7 @@ Research-first engineer who designs and implements new system patterns to drive 
 - Email: js110182@gmail.com 
 - GitHub: https://github.com/Dirac-Robot
 - LinkedIn: https://www.linkedin.com/in/jeonggeun-song-860749142
+- Medium: https://medium.com/@js110182
 
 ---
 ---
@@ -246,7 +247,7 @@ At my core I am research-driven: I start from first-principles formulations and 
 - 2023.08 - 2024.01 / Kakao Brain
 - 2021.09 - 2023.08 / Kakao Enterprise
 - 2018.08 - 2021.08 / Kakao
----
+
 - 2016.03 ~ 2018.02 / M.S. in Physics, Sogang University
 - 2010.03 ~ 2016.02 / B.S. in Physics, Sogang University
 
