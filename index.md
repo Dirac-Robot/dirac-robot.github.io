@@ -3,8 +3,11 @@
 **AI Research Engineer & ML Systems Architect | Applied AI Research Engineer - Architecting Models, Metrics, and Systems**
 Research-first engineer who designs and implements new system patterns to drive novel ideas into production, from large-scale multimodal pipelines to full LLM alignment and reproducibility stacks.
 
-Seoul, South Korea
-Email: js110182@gmail.com | GitHub: https://github.com/Dirac-Robot | LinkedIn: https://www.linkedin.com/in/jeonggeun-song-860749142
+- Location: Seoul, South Korea
+- Email: js110182@gmail.com
+- GitHub: https://github.com/Dirac-Robot
+- LinkedIn: https://www.linkedin.com/in/jeonggeun-song-860749142
+- Medium: https://medium.com/@js110182
 
 ---
 ---
