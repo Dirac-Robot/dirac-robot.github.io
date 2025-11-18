@@ -45,7 +45,7 @@ At my core I am research-driven: I start from first-principles formulations and 
 
 ---
 ---
-# PROJECTS
+# Projects
 
 ## **LLM Optimization & Alignment (2025.08-2025.10) - 8B Multi-Persona Conversational Engine**
 **Role:** Lead Engineer / Researcher  
@@ -171,7 +171,7 @@ At my core I am research-driven: I start from first-principles formulations and 
 
 ---
 ---
-# PERSONAL DEV PROJECTS
+# Personal Dev Projects
 
 ## **A Thin Operating Layer "Ato" (2023-2025)**
 **Role:** Sole Author & Architect  
@@ -188,7 +188,7 @@ At my core I am research-driven: I start from first-principles formulations and 
 
 ---
 ---
-# RESEARCH
+# Researching Topics
 
 ### My research focuses on structural learning problems - e.g., deriving principled views of diffusion as real-distribution estimators, designing BP-free contrastive objectives, and building architectures/metrics that align clean theory with deployable systems.
 
@@ -246,7 +246,7 @@ At my core I am research-driven: I start from first-principles formulations and 
 - 2023.08 - 2024.01 / Kakao Brain
 - 2021.09 - 2023.08 / Kakao Enterprise
 - 2018.08 - 2021.08 / Kakao
-
+---
 - 2016.03 ~ 2018.02 / M.S. in Physics, Sogang University
 - 2010.03 ~ 2016.02 / B.S. in Physics, Sogang University
 
@@ -258,6 +258,3 @@ At my core I am research-driven: I start from first-principles formulations and 
 - Frameworks & Tools: PyTorch, vLLM, ONNX, MPI
 - Data & Systems: Distributed GPU pipelines (8-node/64-GPU), async batching, SQL/SQLite-based experiment tracking and lineage analysis.
 - Research & Methods: Contrastive learning, linear/efficient attention, distillation, neural architecture search, evaluation and metrics design.
- 
----
----
