@@ -103,7 +103,7 @@ At my core I am research-driven: I start from first-principles formulations and 
 - Established a robust technical foundation (data, training, serving, tooling) that future team members can extend rather than re-implement.
 
 ---
-## **Controllable Motion Video Generation (2025.09-2025.10)
+## **Controllable Motion Video Generation (2025.09-2025.10)**
 **Role:** Solo Engineer / Creator  
 **Summary:** Built a controllable dance video generation pipeline on top of Alibaba's WAN 2.2 / WAN-Animate using ComfyUI, focusing on identity-preserving motion and inference-time stabilization without any fine-tuning.
 
