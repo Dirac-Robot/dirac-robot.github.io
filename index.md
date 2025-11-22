@@ -203,7 +203,7 @@ At my core I am research-driven: I start from first-principles formulations and 
 - Demonstrated context disentanglement and fidelity improvements (red lips, hands).
 - Trained with only 8k COCO captions in 2–4h.
 
-### ### Impact
+### Impact
 - Enables diffusion models to **resolve prompt–image ambiguity** by injecting an inferred meta-context that removes the boundary between what is explicitly specified in the prompt and what must be implicitly reconstructed.
 - Provides a **generalizable refinement layer** with negligible runtime overhead and plug-and-play compatibility (SDXL/SD3), improving semantic fidelity in challenging attributes (e.g., mouth, lips, hands) without modifying the base model.
 - Achieves measurable gains in **domain-agnostic context disentanglement and attribute precision** using only 8k COCO captions trained within 2–4 hours, demonstrating high data/compute efficiency.
